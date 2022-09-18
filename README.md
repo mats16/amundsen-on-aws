@@ -1,4 +1,4 @@
-# Template for AWS CDK (and others)
+# OpenMetadata on AWS
 
 Template for AWS CDK (and others) with [devcontainer-for-aws](https://github.com/mats16/devcontainer-for-aws).
 
